@@ -1,0 +1,11 @@
+math
+matplotlib
+numpy
+operator
+os
+pytest
+random
+scipy.stats
+subprocess
+
+
